@@ -2,14 +2,13 @@
 
 ![Travel Companion App with React JS](https://user-images.githubusercontent.com/71302066/174569416-9e8250a9-87ef-49f4-be4a-f077196fe12f.png)
 
-
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/Technical-Shubham-tech)
-[![GitHub license](https://img.shields.io/github/license/Technical-Shubham-tech/travel-advisor?)](https://github.com/Technical-Shubham-tech/travel-advisor/blob/main/LICENSE.md)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Technical-Shubham-tech/travel-advisor/commits/main)
-[![GitHub branches](https://badgen.net/github/branches/Technical-Shubham-tech/travel-advisor/)](https://github.com/Technical-Shubham-tech/travel-advisor/branches)
-[![Github commits](https://badgen.net/github/commits/Technical-Shubham-tech/travel-advisor/main)](https://github.com/Technical-Shubham-tech/travel-advisor/commits)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/smartman0307)
+[![GitHub license](https://img.shields.io/github/license/smartman0307/travel-advisor?)](https://github.com/smartman0307/travel-advisor/blob/main/LICENSE.md)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/smartman0307/travel-advisor/commits/main)
+[![GitHub branches](https://badgen.net/github/branches/smartman0307/travel-advisor/)](https://github.com/smartman0307/travel-advisor/branches)
+[![Github commits](https://badgen.net/github/commits/smartman0307/travel-advisor/main)](https://github.com/smartman0307/travel-advisor/commits)
 [![Website](https://api.netlify.com/api/v1/badges/29710a1c-50d3-471a-a525-b37e473da25d/deploy-status)](https://travel-advisor-reactjs.netlify.app/)
-[![GitHub issues](https://img.shields.io/github/issues/Technical-Shubham-tech/travel-advisor)](https://github.com/Technical-Shubham-tech/travel-advisor/issues)
+[![GitHub issues](https://img.shields.io/github/issues/smartman0307/travel-advisor)](https://github.com/smartman0307/travel-advisor/issues)
 
 ## ⚠️ Before you start
 
@@ -62,7 +61,7 @@ REACT_APP_RAPID_API_KEY="XXXXXXXXXXXXXXXXXXXXX"
 
 [<img src="https://img.shields.io/badge/Google%20Maps-4285F4?logo=googlemaps&logoColor=fff&style=flat" width="100" height="26">](https://developers.google.com/maps)
 [<img src="https://user-images.githubusercontent.com/71302066/174567516-824b1967-5954-4ac7-9446-14a3b2ab825d.svg" alt="Rapid API" width="100">](https://rapidapi.com/)
-[<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="Built with Love">](https://github.com/Technical-Shubham-tech)
+[<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="Built with Love">](https://github.com/smartman0307)
 
 ## 🔧 Stats
 
@@ -72,15 +71,9 @@ REACT_APP_RAPID_API_KEY="XXXXXXXXXXXXXXXXXXXXX"
 
 You might encounter some bugs while using this app. You are more than welcome to contribute. Just submit changes via pull request and I will review them before merging. Make sure you follow community guidelines.
 
-## Buy Me a Coffee 🍺
-
-[<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="200" />](https://www.buymeacoffee.com/sanidhy "Buy me a Coffee")
-
 ## 🚀 Follow Me
 
-[![GitHub followers](https://img.shields.io/github/followers/Technical-Shubham-tech?style=social&label=Follow&maxAge=2592000)](https://github.com/Technical-Shubham-tech)
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FTechnicalShubam)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FTechnical-Shubham-tech%2Fmedical-chat-app)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCNAz_hUVBG2ZUN8TVm0bmYw)
+[![GitHub followers](https://img.shields.io/github/followers/smartman0307?style=social&label=Follow&maxAge=2592000)](https://github.com/smartman0307)
 
 ## ⭐ Give A Star
 
